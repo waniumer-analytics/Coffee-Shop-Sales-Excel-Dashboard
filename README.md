@@ -1,13 +1,15 @@
-☕ Sales & Finance Analytics – Coffee Shop Sales Dashboard  
+                                   Sales & Finance Analytics – Coffee Shop Sales Dashboard  
 
-                                   PROJECT OVERVIEW 
+                DOMAIN:- Sales & Marketing
+                                 
+                                                PROJECT OVERVIEW 
 I developed a Sales Performance & Finance Dashboard to analyze customer behavior, sales patterns, and financial outcomes.  
 This dashboard provides actionable insights into sales trends, product performance, and store-level revenue, helping decision-makers optimize resource allocation and business strategies.  
 
 <img width="1572" height="648" alt="COFFE SHOP SS 2" src="https://github.com/user-attachments/assets/401b6d6e-2db0-4666-aeff-50e0599b459c" />
 
 
-                                     DASHBOARD HIGHLIGHTS 
+                                              DASHBOARD HIGHLIGHTS 
 
 - Interactive dashboard analyzing :- Total sales, customer footfall, order patterns, product performance, and store-level sales.  
 - Peak Sales Time: 8–10 AM (morning rush).  
@@ -59,7 +61,7 @@ This dashboard provides actionable insights into sales trends, product performan
 - Identified sales drivers by product category & store location.  
 - Enhanced reporting & visualization skills for business decision-making.  
 
-                                               TOOLS AND TECHNIWUES USED 
+                                               TOOLS AND TECHNIQUES USED 
  
 - Excel (Power Query, Pivot Tables, Charts, Dashboards). 
 - ETL Process for data cleaning & transformation  .
