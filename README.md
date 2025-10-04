@@ -1,13 +1,13 @@
 ☕ Sales & Finance Analytics – Coffee Shop Sales Dashboard  
 
-                                                        PROJECT OVERVIEW 
+                                   PROJECT OVERVIEW 
 I developed a Sales Performance & Finance Dashboard to analyze customer behavior, sales patterns, and financial outcomes.  
 This dashboard provides actionable insights into sales trends, product performance, and store-level revenue, helping decision-makers optimize resource allocation and business strategies.  
 
 <img width="1572" height="648" alt="COFFE SHOP SS 2" src="https://github.com/user-attachments/assets/401b6d6e-2db0-4666-aeff-50e0599b459c" />
 
 
-                                                         DASHBOARD HIGHLIGHTS 
+                                     DASHBOARD HIGHLIGHTS 
 
 - Interactive dashboard analyzing :- Total sales, customer footfall, order patterns, product performance, and store-level sales.  
 - Peak Sales Time: 8–10 AM (morning rush).  
@@ -18,7 +18,7 @@ This dashboard provides actionable insights into sales trends, product performan
 - Average Order Value:-  $4.7 per person.  
 
 
-RECOMMENDED ANALYSIS  
+                                                 ANALYSIS 
 1. Sales by Day & Hour  
    - Morning (8–10 AM) dominates sales.  
    - Weekdays, especially Tuesday & Thursday, show the highest orders.  
@@ -44,7 +44,7 @@ RECOMMENDED ANALYSIS
      - Hot Chocolate – $72,416  
      - Brewed Black Tea – $47,932  
 
-KEY INSIGHTS
+                                                  KEY INSIGHTS
   
 - Sales peak during 8–10 AM, with Tuesday & Thursday being busiest.  
 - Hell’s Kitchen store leads in both revenue & footfall.  
@@ -52,14 +52,14 @@ KEY INSIGHTS
 - Coffee products dominate with 39% share of sales.  
 - Large-size orders (34%) are most popular.  
 
-KEY LEARNINGS 
+                                                      KEY LEARNINGS 
 - Mastered ETL processes for clean, reliable data.  
 - Built interactive dashboards with deep insights.  
 - Strengthened understanding of customer behavior via time-based analysis.  
 - Identified sales drivers by product category & store location.  
 - Enhanced reporting & visualization skills for business decision-making.  
 
-TOOLS AND TECHNIWUES USED 
+                                               TOOLS AND TECHNIWUES USED 
  
 - Excel (Power Query, Pivot Tables, Charts, Dashboards). 
 - ETL Process for data cleaning & transformation  .
@@ -68,7 +68,7 @@ TOOLS AND TECHNIWUES USED
 
 
 
- Project Links  
+                                                   Project Links  
 -  Porfolio link:-:
 - LinkedIn Profile:- www.linkedin.com/in/waniumer-analytics
 
