@@ -83,8 +83,9 @@ This dashboard provides actionable insights into sales trends, product performan
 
 
                                                    Project Links  
--  Porfolio link:-
--  GitHub Repository:- github.com/waniumer-analytics 
+-Created BY : WANI UMER
+-   Porfolio link:-
+-  GitHub Repository:- https://github.com/waniumer-analytics/Coffee-Shop-Sales--Excel--Dashboard/tree/main 
 - LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_powerbi-dataanalytics-businessintelligence-activity-7393691867256627200-iqfv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
 
 
