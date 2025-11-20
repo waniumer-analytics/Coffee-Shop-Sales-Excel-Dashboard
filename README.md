@@ -84,7 +84,7 @@ This dashboard provides actionable insights into sales trends, product performan
 
                                                    Project Links  
 -  Porfolio link:-
--  GitHub Repository:-github.com/waniumer-analytics 
-- LinkedIn Profile:- www.linkedin.com/in/waniumer-analytics
+-  GitHub Repository:- github.com/waniumer-analytics 
+- LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_powerbi-dataanalytics-businessintelligence-activity-7393691867256627200-iqfv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
 
 
