@@ -1,4 +1,4 @@
-                                   Sales & Finance Analytics – Coffee Shop Sales Dashboard  
+                                      Sales & Finance Analytics – Coffee Shop 
 
                                             DOMAIN:- Sales & Marketing
                                  
